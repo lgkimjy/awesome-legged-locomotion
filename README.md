@@ -1,7 +1,7 @@
 # Awesome-legged-locomotion  
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-This is a curated list of awesome resources related to legged locomotion. It also includes helpful papers for those who are just starting to learn about the legged system.
+This is a curated list of awesome resources related to legged locomotion. It also includes helpful papers for those who are just starting to learn about the legged system. List will be updated gradually.
 
 ## Table of Contents
 - [Awesome-legged-locomotion](#awesome-legged-locomotion)
