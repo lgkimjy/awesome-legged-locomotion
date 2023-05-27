@@ -22,8 +22,9 @@ This is a curated list of awesome resources related to legged locomotion. It als
 ## Books & Lectures
 - [Underactuated Robotics](https://underactuated.mit.edu) **MIT**
 - [Robotic Manipulation](https://manipulation.mit.edu) **MIT**
-- [Legged Robotics](https://pab47.github.io/legs.html) **UIC**
 - [Robotic Systems (draft)](https://motion.cs.illinois.edu/RoboticSystems/) **UIUC**
+- [Legged Robotics](https://pab47.github.io/legs.html) **UIC**
+- [Stéphane Caron Blog](https://scaron.info) **Scaron Blog**
 
 
 ## Tools
@@ -57,8 +58,9 @@ This is a curated list of awesome resources related to legged locomotion. It als
 - [**Humanoids2006**] [Capture Point: A Step toward Humanoid Push Recovery](https://ieeexplore.ieee.org/document/4115602?arnumber=4115602)
 - [**ijrr**] [Capturability-based analysis and control of legged locomotion, Part 1: Theory and application to three simple gait models](https://journals.sagepub.com/doi/pdf/10.1177/0278364912452673?casa_token=tBjlmF4O-3gAAAAA:vjbn7YPsvdkgIDt7ro2nv5JXnNMo_1VMMeKKfEcmj5zvILR-DHCjbwzcOUyBY11nYnMuh3un8sDl)
 - [**IROS2011**] [Bipedal walking control based on Capture Point dynamics](https://ieeexplore.ieee.org/document/6094435)
-- [**T-RO**] [Three-dimensional bipedal walking control using Divergent Component of Motion](https://ieeexplore.ieee.org/document/7063218)
+- [**T-Ro**] [Three-dimensional bipedal walking control using Divergent Component of Motion](https://ieeexplore.ieee.org/document/7063218)
 - [**Humanoids2018**] [DCM-based gait generation for walking on moving support surfaces](https://ieeexplore.ieee.org/document/8625006)
+- [**T-RO**] [Capturability-based Pattern Generation for Walking with Variable Height](https://ieeexplore.ieee.org/document/8766870)
 - [**T-SMC**] [Hopping in Legged Systems-Modeling and Simulation for the Two-Dimensional One-Legged Case](https://ieeexplore.ieee.org/document/6313238)
 - [**IROS2018**] [MIT Cheetah 3: Design and Control of a Robust, Dynamic Quadruped Robot](https://ieeexplore.ieee.org/abstract/document/8593885)
 - [**ICARCV2014**] [Continuous Cyclic Stepping on 3D Point-Foot Biped Robots Via Constant Time to Velocity Reversal](https://ieeexplore.ieee.org/document/7064561)
