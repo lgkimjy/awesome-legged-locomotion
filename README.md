@@ -23,6 +23,7 @@ This is a curated list of awesome resources related to legged locomotion. It als
 - [Underactuated Robotics](https://underactuated.mit.edu) **MIT**
 - [Robotic Manipulation](https://manipulation.mit.edu) **MIT**
 - [Robotic Systems (draft)](https://motion.cs.illinois.edu/RoboticSystems/) **UIUC**
+- [Robot Dynamics](https://ethz.ch/content/dam/ethz/special-interest/mavt/robotics-n-intelligent-systems/rsl-dam/documents/RobotDynamics2017/RD_HS2017script.pdf) [ [Lecture](https://www.youtube.com/playlist?list=PLE-BQwvVGf8GMY11YEONylkQNu0UWj0VE) ] **ETH** 
 - [Legged Robotics](https://pab47.github.io/legs.html) **UIC**
 - [Feedback Control of Dynamic Bipedal Robot Locomotion]() **Jessy Grizzle**
 - [Stéphane Caron Blog](https://scaron.info) **Scaron Blog**
