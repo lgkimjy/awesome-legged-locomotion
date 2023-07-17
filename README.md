@@ -23,6 +23,7 @@ This is a curated list of awesome resources related to legged locomotion. It als
 - [Underactuated Robotics](https://underactuated.mit.edu) **MIT**
 - [Robotic Manipulation](https://manipulation.mit.edu) **MIT**
 - [Robotic Systems (draft)](https://motion.cs.illinois.edu/RoboticSystems/) **UIUC**
+- [Robot Dynamics](https://ethz.ch/content/dam/ethz/special-interest/mavt/robotics-n-intelligent-systems/rsl-dam/documents/RobotDynamics2017/RD_HS2017script.pdf) [ [Lecture](https://www.youtube.com/playlist?list=PLE-BQwvVGf8GMY11YEONylkQNu0UWj0VE) ] **ETH** 
 - [Legged Robotics](https://pab47.github.io/legs.html) **UIC**
 - [Feedback Control of Dynamic Bipedal Robot Locomotion]() **Jessy Grizzle**
 - [Stéphane Caron Blog](https://scaron.info) **Scaron Blog**
@@ -63,7 +64,7 @@ This is a curated list of awesome resources related to legged locomotion. It als
 ### Humanoid Locomotion
 * Preivew Control / MPC
 	* [**ICRA2003**] [Biped walking pattern generation by using preview control of zero-moment point](https://ieeexplore.ieee.org/document/1241826)
-	* [Online Walking Motion Generation with Automatic Foot Step Placement](https://inria.hal.science/inria-00391408v1/document)
+	* [**Advanced Robotics**] [Online Walking Motion Generation with Automatic Foot Step Placement](https://inria.hal.science/inria-00391408v1/document)
 * Capture Point / Divergent Component of Motion
 	* [**Humanoids2006**] [Capture Point: A Step toward Humanoid Push Recovery](https://ieeexplore.ieee.org/document/4115602?arnumber=4115602)
 	* [**ijrr**] [Capturability-based analysis and control of legged locomotion, Part 1: Theory and application to three simple gait models](https://journals.sagepub.com/doi/pdf/10.1177/0278364912452673?casa_token=tBjlmF4O-3gAAAAA:vjbn7YPsvdkgIDt7ro2nv5JXnNMo_1VMMeKKfEcmj5zvILR-DHCjbwzcOUyBY11nYnMuh3un8sDl)
@@ -76,11 +77,10 @@ This is a curated list of awesome resources related to legged locomotion. It als
 	* [**IROS2018**] [MIT Cheetah 3: Design and Control of a Robust, Dynamic Quadruped Robot](https://ieeexplore.ieee.org/abstract/document/8593885)
 * Time Velocity Reversal
 	* [**ICARCV2014**] [Continuous Cyclic Stepping on 3D Point-Foot Biped Robots Via Constant Time to Velocity Reversal](https://ieeexplore.ieee.org/document/7064561)
-	* [Dynamic Locomotion For Passive-Ankle Biped Robots And Humanoids Using Whole-Body Locomotion Control](https://arxiv.org/abs/1901.08100)
+	* [**ijrr**] [Dynamic Locomotion For Passive-Ankle Biped Robots And Humanoids Using Whole-Body Locomotion Control](https://arxiv.org/abs/1901.08100)
 * Timing Adjustment
 	* [Step Timing Adjustment: A Step toward Generating Robust Gaits](https://arxiv.org/abs/1610.02377)
 	* [Walking Control Based on Step Timing Adaptation](https://arxiv.org/abs/1704.01271)
-	* [Variable Horizon MPC with Swing Foot Dynamics for Bipedal Walking Control](https://arxiv.org/abs/2010.08198)
 * Hybrid Zero Dynamics / Angular Momentum-based planning
 	* [Angular Momentum about the Contact Point for Control of Bipedal Locomotion: Validation in a LIP-based Controller](https://arxiv.org/pdf/2008.10763.pdf)
 	* [Zero Dynamics, Pendulum Models, and Angular Momentum in Feedback Control of Bipedal Locomotion](https://arxiv.org/pdf/2105.08170.pdf)
