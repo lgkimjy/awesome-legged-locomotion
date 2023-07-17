@@ -80,6 +80,7 @@ This is a curated list of awesome resources related to legged locomotion. It als
 * Timing Adjustment
 	* [Step Timing Adjustment: A Step toward Generating Robust Gaits](https://arxiv.org/abs/1610.02377)
 	* [Walking Control Based on Step Timing Adaptation](https://arxiv.org/abs/1704.01271)
+	* [Variable Horizon MPC with Swing Foot Dynamics for Bipedal Walking Control](https://arxiv.org/abs/2010.08198)
 * Hybrid Zero Dynamics / Angular Momentum-based planning
 	* [Angular Momentum about the Contact Point for Control of Bipedal Locomotion: Validation in a LIP-based Controller](https://arxiv.org/pdf/2008.10763.pdf)
 	* [Zero Dynamics, Pendulum Models, and Angular Momentum in Feedback Control of Bipedal Locomotion](https://arxiv.org/pdf/2105.08170.pdf)
